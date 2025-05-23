@@ -1,0 +1,2 @@
+# VFloors360-Server
+VFloors360-Server is a Node.js-based backend application that powers the VFloors360 virtual environment. It provides RESTful APIs for managing tile data, user interactions, and room navigation. The server is responsible for handling user authentication, storing data with MongoDB, and ensuring secure and efficient processing of requests to support smooth and responsive system performance.
